@@ -6,7 +6,7 @@
 2. En la raíz del proyecto, correr el siguiente comando para instalar todas las dependecias del proyecto: 
 
    ```
-   npm install
+   npm install express @faker-js/faker faker ejs knex mysql socket.io sqlite3
    ```
 
 3. Requisitos:
